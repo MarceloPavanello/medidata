@@ -1,0 +1,6 @@
+2018-10-14 12:15:55.661 -03 [1107] LOG:  listening on IPv6 address "::1", port 5432
+2018-10-14 12:15:55.661 -03 [1107] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2018-10-14 12:15:55.664 -03 [1107] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2018-10-14 12:15:55.687 -03 [1108] LOG:  database system was shut down at 2018-10-14 12:15:49 -03
+2018-10-14 12:15:55.693 -03 [1107] LOG:  database system is ready to accept connections
+2018-10-14 12:16:05.680 -03 [1115] FATAL:  database "medidata_development" does not exist
